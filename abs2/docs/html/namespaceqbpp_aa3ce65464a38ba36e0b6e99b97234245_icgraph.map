@@ -1,0 +1,19 @@
+<map id="qbpp::simplify_as_binary" name="qbpp::simplify_as_binary">
+<area shape="rect" id="node1" title=" " alt="" coords="761,165,945,192"/>
+<area shape="rect" id="node2" href="$classqbpp_1_1graph__color_1_1GraphColorQuadModel.html#a5137f108589790091a08b0c8f1bfc049" title="Helper function to generate the QUBO expression for the GraphColorMap object and the number of colors..." alt="" coords="527,5,696,61"/>
+<area shape="rect" id="node3" href="$simple__factorization__abs2_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="584,85,639,112"/>
+<area shape="rect" id="node4" href="$classqbpp_1_1Expr.html#a993b1cdebcad2f69afd95a1bb313a860" title=" " alt="" coords="532,136,691,163"/>
+<area shape="rect" id="node5" href="$classqbpp_1_1nqueen_1_1NQueenQuadModel.html#aa8c191760731a1804efc38e50ce6cf24" title="Generates the QUBO expression for the N&#45;Queens problem using TBB in parallel." alt="" coords="509,187,713,229"/>
+<area shape="rect" id="node7" href="$classqbpp_1_1Expr.html#a62e5306958c409b8099d56a5ae664c6c" title=" " alt="" coords="533,253,690,280"/>
+<area shape="rect" id="node9" href="$classqbpp_1_1Expr.html#a21b1c63a0930ff6ff426d852b2ccd011" title=" " alt="" coords="536,391,687,433"/>
+<area shape="rect" id="node6" href="$classqbpp_1_1nqueen_1_1NQueenQuadModel.html#a940443a8bb6cadae0d38f96b92661f58" title="Helper function to compute initial values for member variables." alt="" coords="5,297,209,338"/>
+<area shape="rect" id="node8" href="$namespaceqbpp.html#a23e20254bb8ddd83cf2673a8ea204a94" title=" " alt="" coords="290,245,429,272"/>
+<area shape="rect" id="node10" href="$classqbpp_1_1nqueen_1_1NQueenQuadModel.html#a7a3c1501bc6230d15a3b033b26584575" title="Generates qbpp::Expr for the N&#45;Queens problem." alt="" coords="257,297,461,338"/>
+<area shape="rect" id="node11" href="$classqbpp_1_1nqueen_1_1NQueenQuadModel.html#af0ccd64d202250088cc2846f4c86516b" title="Generates the QUBO expression for the N&#45;Queens problem." alt="" coords="257,362,461,403"/>
+<area shape="rect" id="node12" href="$bin__packing__easy_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="332,428,387,455"/>
+<area shape="rect" id="node13" href="$namespaceqbpp_1_1factorization.html#a0c2bd955d729e3d15ebad8da4835229f" title="Function to generate QUBO expression for multiplier." alt="" coords="287,479,431,521"/>
+<area shape="rect" id="node15" href="$namespaceqbpp.html#a17ebda985a4b0bb22a6b4485b59c3774" title=" " alt="" coords="281,545,438,572"/>
+<area shape="rect" id="node14" href="$factorization_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Solves the factorization problem using ABS2 QUBO Solver and Gurobi optimizer from QUBO++ library." alt="" coords="80,487,135,513"/>
+<area shape="rect" id="node16" href="$classqbpp_1_1Vector.html#afdd07cc64c0c98ea6808efd1dddc547e" title=" " alt="" coords="38,538,177,579"/>
+<area shape="rect" id="node17" href="$classqbpp_1_1Expr.html#ad72e191219081766dd77bd9ac592cb19" title=" " alt="" coords="34,603,181,645"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="sample/qbpp_multiplier.hpp" name="sample/qbpp_multiplier.hpp">
+<area shape="rect" id="node1" title="Generates QUBO expression for binary multipliers using QUBO++ library." alt="" coords="5,5,208,32"/>
+<area shape="rect" id="node2" href="$factorization_8cpp.html" title="Solves factorization and multiplication problems for two prime numbers using multiple QUBO solvers." alt="" coords="15,80,198,107"/>
+</map>

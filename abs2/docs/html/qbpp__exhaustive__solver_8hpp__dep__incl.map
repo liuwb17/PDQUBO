@@ -1,0 +1,6 @@
+<map id="include/qbpp_exhaustive_solver.hpp" name="include/qbpp_exhaustive_solver.hpp">
+<area shape="rect" id="node1" title="Exhaustive QUBO Solver for solving QUBO problems." alt="" coords="271,5,455,47"/>
+<area shape="rect" id="node2" href="$partition__exhaustive_8cpp.html" title="Solves the Partitioning problem using the QUBO++ Exhaustive solver." alt="" coords="5,95,240,121"/>
+<area shape="rect" id="node3" href="$ilp__exhaustive_8cpp.html" title="Solves an Integer Linear Programming (ILP) problem using ExhaustiveSolver through QUBO++ library." alt="" coords="265,95,461,121"/>
+<area shape="rect" id="node4" href="$knapsack__exhaustive_8cpp.html" title="This file contains an example of solving the knapsack problem using the exhaustive solver." alt="" coords="485,95,728,121"/>
+</map>

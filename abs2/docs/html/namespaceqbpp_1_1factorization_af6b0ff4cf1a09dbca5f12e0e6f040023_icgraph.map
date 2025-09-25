@@ -1,0 +1,6 @@
+<map id="qbpp::factorization::full_adder" name="qbpp::factorization::full_adder">
+<area shape="rect" id="node1" title="Function to generate a QUBO expression Expr object for the Full Adder." alt="" coords="492,5,636,47"/>
+<area shape="rect" id="node2" href="$namespaceqbpp_1_1factorization.html#a1e5c7d80129600dc5345d9e9dd5602d9" title="function to generate QUBO expression for n&#45;bit adder" alt="" coords="300,5,444,47"/>
+<area shape="rect" id="node3" href="$namespaceqbpp_1_1factorization.html#a0c2bd955d729e3d15ebad8da4835229f" title="Function to generate QUBO expression for multiplier." alt="" coords="108,5,252,47"/>
+<area shape="rect" id="node4" href="$factorization_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Solves the factorization problem using ABS2 QUBO Solver and Gurobi optimizer from QUBO++ library." alt="" coords="5,13,60,39"/>
+</map>

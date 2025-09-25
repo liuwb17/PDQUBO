@@ -1,0 +1,4 @@
+<map id="qbpp_abs2::Param::set_target_energy" name="qbpp_abs2::Param::set_target_energy">
+<area shape="rect" id="node1" title="Set the target energy for ABS2 QUBO solver." alt="" coords="108,5,277,47"/>
+<area shape="rect" id="node2" href="$graph__color__abs2_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Main function to generate a random map and solve the Graph Coloring Problem using the ABS2 QUBO Solve..." alt="" coords="5,13,60,39"/>
+</map>

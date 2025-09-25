@@ -1,0 +1,4 @@
+<map id="qbpp::tsp::TSPQuadModel::get_fix_first" name="qbpp::tsp::TSPQuadModel::get_fix_first">
+<area shape="rect" id="node1" title="Returns true if the first node is fixed to node 0." alt="" coords="196,5,384,47"/>
+<area shape="rect" id="node2" href="$classqbpp_1_1tsp_1_1TSPSol.html#a850469299d3a30962180e13657e16452" title="helper function to generate a tour from the solution." alt="" coords="5,5,148,47"/>
+</map>

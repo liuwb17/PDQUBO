@@ -1,0 +1,8 @@
+<map id="qbpp::tsp::TSPMap::gen_random_map" name="qbpp::tsp::TSPMap::gen_random_map">
+<area shape="rect" id="node1" title="Generate a random map with n nodes." alt="" coords="5,93,156,135"/>
+<area shape="rect" id="node2" href="$classqbpp_1_1tsp_1_1TSPMap.html#abb5ed5d5beb5b8c639384b42adae35d5" title="Add a node to the map." alt="" coords="255,5,405,47"/>
+<area shape="rect" id="node3" href="$classqbpp_1_1tsp_1_1TSPMap.html#a6ca32411c34b040e6f09790f8376b0d7" title="Compute the Euclidean distance between two nodes." alt="" coords="527,101,701,127"/>
+<area shape="rect" id="node4" href="$classqbpp_1_1misc_1_1RandomGenerator.html#a95308c2300aeef9a881ba97786367977" title=" " alt="" coords="204,189,456,215"/>
+<area shape="rect" id="node6" href="$classqbpp_1_1tsp_1_1TSPMap.html#a611e61c620a84590c1ff675cc3a6e332" title="Compute the minimum distance between a new node and all other nodes." alt="" coords="255,123,405,164"/>
+<area shape="rect" id="node5" href="$classqbpp_1_1misc_1_1RandomGenerator.html#a6b19f6bde3a3b6ff087a908d11ece3c1" title=" " alt="" coords="504,181,724,223"/>
+</map>

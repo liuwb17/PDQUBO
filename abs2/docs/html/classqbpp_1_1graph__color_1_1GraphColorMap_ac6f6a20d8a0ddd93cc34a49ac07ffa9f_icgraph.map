@@ -1,0 +1,4 @@
+<map id="qbpp::graph_color::GraphColorMap::print" name="qbpp::graph_color::GraphColorMap::print">
+<area shape="rect" id="node1" title="Displays the histogram of the colors." alt="" coords="108,5,269,47"/>
+<area shape="rect" id="node2" href="$graph__color__abs2_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Main function to generate a random map and solve the Graph Coloring Problem using the ABS2 QUBO Solve..." alt="" coords="5,13,60,39"/>
+</map>

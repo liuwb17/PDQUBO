@@ -1,0 +1,11 @@
+<map id="qbpp::Vector::emplace_back" name="qbpp::Vector::emplace_back">
+<area shape="rect" id="node1" title=" " alt="" coords="380,123,585,149"/>
+<area shape="rect" id="node2" href="$partition__easy_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Solves the Partitioning problem using the QUBO++ Easy Solver." alt="" coords="233,5,287,32"/>
+<area shape="rect" id="node3" href="$namespaceqbpp_1_1factorization.html#a0c2bd955d729e3d15ebad8da4835229f" title="Function to generate QUBO expression for multiplier." alt="" coords="188,57,332,98"/>
+<area shape="rect" id="node5" href="$namespaceqbpp.html#a6374dcd91f578f345c65c7bbd855d05d" title=" " alt="" coords="219,123,301,149"/>
+<area shape="rect" id="node6" href="$namespaceqbpp.html#a75237ac2fece7216a9673897c8dabdbd" title=" " alt="" coords="207,173,313,200"/>
+<area shape="rect" id="node8" href="$namespaceqbpp.html#ad239444e6826f97e56001b2bf41a6c7c" title=" " alt="" coords="193,224,327,251"/>
+<area shape="rect" id="node4" href="$factorization_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Solves the factorization problem using ABS2 QUBO Solver and Gurobi optimizer from QUBO++ library." alt="" coords="45,64,100,91"/>
+<area shape="rect" id="node7" href="$namespaceqbpp.html#a624463d035658e5f9fd9ec1ab647d226" title=" " alt="" coords="19,173,126,200"/>
+<area shape="rect" id="node9" href="$namespaceqbpp.html#a1a01ae748547e1c34071094bf76d2ce0" title=" " alt="" coords="5,224,140,251"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="qbpp::factorization::is_prime" name="qbpp::factorization::is_prime">
+<area shape="rect" id="node1" title=" " alt="" coords="300,5,444,47"/>
+<area shape="rect" id="node2" href="$factorization_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Solves the factorization problem using ABS2 QUBO Solver and Gurobi optimizer from QUBO++ library." alt="" coords="5,13,60,39"/>
+<area shape="rect" id="node3" href="$namespaceqbpp_1_1factorization.html#a0cee6f6d9d06e2d8e83d151d62ed652b" title="Generates a random prime number of the specified size." alt="" coords="108,35,252,76"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="qbpp::Model" name="qbpp::Model">
+<area shape="rect" id="node1" title=" " alt="" coords="5,162,108,189"/>
+<area shape="rect" id="node2" href="$classqbpp_1_1QuadModel.html" title=" " alt="" coords="156,162,292,189"/>
+<area shape="rect" id="node3" href="$classqbpp_1_1graph__color_1_1GraphColorQuadModel.html" title="Class to store the QUBO expression with variables for the Graph Coloring Problem." alt="" coords="357,5,527,47"/>
+<area shape="rect" id="node4" href="$classqbpp_1_1nqueen_1_1NQueenQuadModel.html" title="Class to generate a QUBO model for the N&#45;Queens problem." alt="" coords="340,71,544,112"/>
+<area shape="rect" id="node5" href="$classqbpp_1_1tsp_1_1TSPModel.html" title="Class to store the QUBO expression for the Traveling Salesman Problem (TSP)." alt="" coords="365,137,519,163"/>
+<area shape="rect" id="node6" href="$classqbpp_1_1tsp_1_1TSPQuadModel.html" title="Class to store the QUBO expression for the Traveling Salesman Problem (TSP)." alt="" coords="348,187,536,214"/>
+<area shape="rect" id="node7" href="$classqbpp__abs2_1_1QuadModel.html" title="A class for storing both the qbpp::QuadModel and abs2::Model." alt="" coords="355,238,529,265"/>
+<area shape="rect" id="node8" href="$classqbpp__grb_1_1QuadModel.html" title="Class to store a QUBO model using Gurobi Optimizer through QUBO++ library." alt="" coords="360,289,524,315"/>
+</map>

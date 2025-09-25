@@ -1,0 +1,4 @@
+<map id="qbpp_grb::QuadModel::set_time_limit" name="qbpp_grb::QuadModel::set_time_limit">
+<area shape="rect" id="node1" title="Sets time limit to the Gurobi model." alt="" coords="5,5,169,47"/>
+<area shape="rect" id="node2" href="$group__qbpp__grb.html#ga896e8acb781305f1539e390d360a12de" title="Sets a parameter to the Gurobi environment." alt="" coords="217,13,409,39"/>
+</map>

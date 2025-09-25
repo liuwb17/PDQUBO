@@ -1,0 +1,7 @@
+<map id="qbpp::tsp::TSPQuadModel::node_count" name="qbpp::tsp::TSPQuadModel::node_count">
+<area shape="rect" id="node1" title="Returns the number of nodes in the TSP." alt="" coords="241,104,429,145"/>
+<area shape="rect" id="node2" href="$classqbpp_1_1tsp_1_1TSPSol.html#a850469299d3a30962180e13657e16452" title="helper function to generate a tour from the solution." alt="" coords="28,5,171,47"/>
+<area shape="rect" id="node3" href="$classqbpp_1_1tsp_1_1TSPQuadModel.html#afa2124847942c070b4cb95ab9ae59284" title="Generate a QUBO expression for the Traveling Salesman Problem (TSP)." alt="" coords="5,71,193,112"/>
+<area shape="rect" id="node4" href="$classqbpp_1_1tsp_1_1TSPSol.html#a16eb43543fe8d4af32107abc3a2c9595" title="Get the number of nodes in the tour." alt="" coords="28,136,171,177"/>
+<area shape="rect" id="node5" href="$classqbpp_1_1tsp_1_1TSPSol.html#aeaddec0d0368bef74ebcbda49fe863fe" title=" " alt="" coords="28,201,171,243"/>
+</map>

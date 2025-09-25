@@ -1,0 +1,4 @@
+<map id="qbpp::tsp::TSPMap::dist" name="qbpp::tsp::TSPMap::dist">
+<area shape="rect" id="node1" title="Compute the Euclidean distance between two nodes." alt="" coords="5,5,180,32"/>
+<area shape="rect" id="node2" href="$classqbpp_1_1tsp_1_1TSPMap.html#a6ca32411c34b040e6f09790f8376b0d7" title="Compute the Euclidean distance between two nodes." alt="" coords="228,5,403,32"/>
+</map>

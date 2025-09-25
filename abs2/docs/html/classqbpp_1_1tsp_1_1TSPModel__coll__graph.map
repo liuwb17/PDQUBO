@@ -1,0 +1,6 @@
+<map id="qbpp::tsp::TSPModel" name="qbpp::tsp::TSPModel">
+<area shape="rect" id="node1" title="Class to store the QUBO expression for the Traveling Salesman Problem (TSP)." alt="" coords="87,185,241,212"/>
+<area shape="rect" id="node2" href="$classqbpp_1_1QuadModel.html" title=" " alt="" coords="5,89,141,115"/>
+<area shape="rect" id="node3" href="$classqbpp_1_1Model.html" title=" " alt="" coords="22,5,125,32"/>
+<area shape="rect" id="node4" href="$classqbpp_1_1Vector.html" title=" " alt="" coords="166,81,343,123"/>
+</map>

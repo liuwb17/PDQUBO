@@ -1,0 +1,8 @@
+<map id="qbpp::QuadModel::linear" name="qbpp::QuadModel::linear">
+<area shape="rect" id="node1" title=" " alt="" coords="235,143,416,170"/>
+<area shape="rect" id="node2" href="$group__qbpp__abs2.html#gab125241142be7f65e2a913158e00394a" title="Constructor: Create an ABS2 model from a QUBO model." alt="" coords="9,5,183,47"/>
+<area shape="rect" id="node3" href="$group__qbpp__grb.html#ga3e5106bc14a17c6521c932753c76fe96" title="Constructor to create a model from QuadModel object." alt="" coords="14,71,178,112"/>
+<area shape="rect" id="node4" href="$classqbpp_1_1easy__solver_1_1SolDelta.html#a2a6c5b08bc697bd6f633b68fcdd550e1" title=" " alt="" coords="22,136,170,177"/>
+<area shape="rect" id="node5" href="$classqbpp_1_1exhaustive__solver_1_1SolDelta.html#a6f368c3a2224a71803d9ee2711effa9b" title=" " alt="" coords="5,201,187,243"/>
+<area shape="rect" id="node6" href="$namespaceqbpp.html#a8fa3af2cffc1996530310aac6e4b0576" title=" " alt="" coords="57,267,135,294"/>
+</map>

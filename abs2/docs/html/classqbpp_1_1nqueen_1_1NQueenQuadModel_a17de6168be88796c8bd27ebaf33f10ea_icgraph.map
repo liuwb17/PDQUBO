@@ -1,0 +1,4 @@
+<map id="qbpp::nqueen::NQueenQuadModel::get_var" name="qbpp::nqueen::NQueenQuadModel::get_var">
+<area shape="rect" id="node1" title="Gets the variable at (i, j)" alt="" coords="108,5,312,47"/>
+<area shape="rect" id="node2" href="$nqueen__easy_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Solves the N&#45;Queens problem using EasySolver in the QUBO++ library. library." alt="" coords="5,13,60,39"/>
+</map>

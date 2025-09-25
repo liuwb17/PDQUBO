@@ -1,0 +1,7 @@
+<map id="qbpp_grb::QuadModel::get_grb_var" name="qbpp_grb::QuadModel::get_grb_var">
+<area shape="rect" id="node1" title="Get the Gurobi variable from the index." alt="" coords="431,39,595,80"/>
+<area shape="rect" id="node2" href="$classqbpp_1_1factorization_1_1GRB__Callback.html#a5b00538ab4f4123134dacfaa79c3cd4c" title="callback function for Gurobi optimizer." alt="" coords="5,5,188,47"/>
+<area shape="rect" id="node3" href="$classqbpp__grb_1_1Callback.html#a6d111191d65a98194fec8779fac6dadd" title="Get the solution obtained by Gurobi Optimizer." alt="" coords="236,68,383,109"/>
+<area shape="rect" id="node4" href="$classqbpp__grb_1_1Callback.html#a8b785f76ab9c73fa92b97bb8da6f5e37" title="Default callback function for Gurobi Optimizer." alt="" coords="23,71,170,112"/>
+<area shape="rect" id="node5" href="$classGRB__Callback.html#ac08cbd22e13d589be7ca35178d3126d0" title="callback function for Gurobi optimizer." alt="" coords="9,137,184,163"/>
+</map>

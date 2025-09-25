@@ -1,0 +1,29 @@
+<map id="qbpp::expr" name="qbpp::expr">
+<area shape="rect" id="node1" title=" " alt="" coords="612,635,703,662"/>
+<area shape="rect" id="node2" href="$namespaceqbpp_1_1factorization.html#a1e5c7d80129600dc5345d9e9dd5602d9" title="function to generate QUBO expression for n&#45;bit adder" alt="" coords="390,5,534,47"/>
+<area shape="rect" id="node3" href="$namespaceqbpp_1_1factorization.html#a0c2bd955d729e3d15ebad8da4835229f" title="Function to generate QUBO expression for multiplier." alt="" coords="138,56,282,97"/>
+<area shape="rect" id="node4" href="$factorization_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Solves the factorization problem using ABS2 QUBO Solver and Gurobi optimizer from QUBO++ library." alt="" coords="5,93,60,119"/>
+<area shape="rect" id="node5" href="$namespaceqbpp.html#ad031a05cdcfce3df0ae410a6a89ef045" title=" " alt="" coords="369,173,555,215"/>
+<area shape="rect" id="node7" href="$namespaceqbpp.html#a4debed5e5fafbaf22768687291462387" title=" " alt="" coords="371,239,553,266"/>
+<area shape="rect" id="node8" href="$classqbpp_1_1nqueen_1_1NQueenQuadModel.html#a7a3c1501bc6230d15a3b033b26584575" title="Generates qbpp::Expr for the N&#45;Queens problem." alt="" coords="360,291,564,332"/>
+<area shape="rect" id="node10" href="$classqbpp_1_1Sol.html#a427f81eb5091b76b4f197f3c42b5a1c5" title=" " alt="" coords="407,357,517,383"/>
+<area shape="rect" id="node11" href="$classqbpp_1_1VarInt.html#a3ed15d6c08f6e19a17444772c8613afe" title=" " alt="" coords="370,407,554,434"/>
+<area shape="rect" id="node12" href="$namespaceqbpp.html#a233fc67d9e9c0851cf41f2cf0e8e196f" title=" " alt="" coords="400,458,524,485"/>
+<area shape="rect" id="node13" href="$classqbpp_1_1Vector.html#a315bf8cdfc99f5c6a073fbe683ec820c" title=" " alt="" coords="370,509,554,535"/>
+<area shape="rect" id="node14" href="$classqbpp_1_1Expr.html#a8b67a0dd1b4d9639141e6f192ce27e0a" title=" " alt="" coords="376,559,548,586"/>
+<area shape="rect" id="node15" href="$namespaceqbpp.html#a2fe367f281dd9a023e30260147840966" title=" " alt="" coords="398,610,526,637"/>
+<area shape="rect" id="node16" href="$classqbpp_1_1Vector.html#a35f5b73fef8b43e5c869b15dea6677c8" title=" " alt="" coords="368,661,556,687"/>
+<area shape="rect" id="node17" href="$classqbpp_1_1Expr.html#a0bb4e1d481da10c385ae18bd46d44859" title=" " alt="" coords="374,711,550,738"/>
+<area shape="rect" id="node18" href="$namespaceqbpp.html#ad50977512d7663999ba81fc1e91f3406" title=" " alt="" coords="401,762,523,789"/>
+<area shape="rect" id="node19" href="$classqbpp_1_1Vector.html#ab49ba7cab7eecb730ab33d028382efbe" title=" " alt="" coords="371,813,553,839"/>
+<area shape="rect" id="node20" href="$classqbpp_1_1Expr.html#acc23fd39c2527f287d2f945478f77bef" title=" " alt="" coords="377,863,547,890"/>
+<area shape="rect" id="node21" href="$namespaceqbpp.html#a3f213808de39398c9c1bad29c727fca2" title=" " alt="" coords="401,914,523,941"/>
+<area shape="rect" id="node22" href="$namespaceqbpp.html#a2676c85b2e5eef57153cd7ea84f5391f" title=" " alt="" coords="393,965,531,991"/>
+<area shape="rect" id="node23" href="$classqbpp_1_1Expr.html#a6fab4f0bd5d5594ceee2dc7a90c02e95" title=" " alt="" coords="379,1015,545,1042"/>
+<area shape="rect" id="node24" href="$namespaceqbpp.html#ab3efb11e8167e5a1b4ec8cc2f5a98da3" title=" " alt="" coords="407,1066,517,1093"/>
+<area shape="rect" id="node25" href="$namespaceqbpp.html#acced023ee901b8bc9a1a2968ec852ab4" title=" " alt="" coords="423,1117,501,1143"/>
+<area shape="rect" id="node26" href="$namespaceqbpp.html#a375a2df55223523ba27620ac306cf598" title=" " alt="" coords="405,1167,519,1194"/>
+<area shape="rect" id="node27" href="$namespaceqbpp.html#a75ec4f70aaf822424842c81e415834c6" title=" " alt="" coords="403,1218,521,1245"/>
+<area shape="rect" id="node6" href="$structqbpp_1_1QuadModel_1_1Impl.html#a17282586c31a1881bd2228a3111c2aa8" title=" " alt="" coords="123,173,297,215"/>
+<area shape="rect" id="node9" href="$classqbpp_1_1nqueen_1_1NQueenQuadModel.html#a940443a8bb6cadae0d38f96b92661f58" title="Helper function to compute initial values for member variables." alt="" coords="108,291,312,332"/>
+</map>

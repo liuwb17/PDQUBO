@@ -1,0 +1,4 @@
+<map id="qbpp_abs2::QuadModel::get_abs2_model" name="qbpp_abs2::QuadModel::get_abs2_model">
+<area shape="rect" id="node1" title="Get the ABS2 model." alt="" coords="203,5,377,47"/>
+<area shape="rect" id="node2" href="$group__qbpp__abs2.html#ga7665b9e646b22156b8680c64cd08c92c" title="Executes ABS2 for &quot;quad_model&quot; with &quot;param&quot; and returns &quot;sol&quot;." alt="" coords="5,5,155,47"/>
+</map>

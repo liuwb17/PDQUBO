@@ -1,0 +1,4 @@
+<map id="qbpp::graph_color::GraphColorMap::node_count" name="qbpp::graph_color::GraphColorMap::node_count">
+<area shape="rect" id="node1" title="Gets the number of nodes in the map." alt="" coords="223,13,429,54"/>
+<area shape="rect" id="node2" href="$classqbpp_1_1graph__color_1_1GraphColorQuadModel.html#a5137f108589790091a08b0c8f1bfc049" title="Helper function to generate the QUBO expression for the GraphColorMap object and the number of colors..." alt="" coords="5,5,175,61"/>
+</map>

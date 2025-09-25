@@ -1,0 +1,8 @@
+<map id="qbpp::graph_color::GraphColorMap::gen_random_map" name="qbpp::graph_color::GraphColorMap::gen_random_map">
+<area shape="rect" id="node1" title="Generate a random map with n nodes." alt="" coords="5,93,253,135"/>
+<area shape="rect" id="node2" href="$classqbpp_1_1graph__color_1_1GraphColorMap.html#af229a75b21e41767048e169b0b1ae895" title="Add a node to the map." alt="" coords="330,5,525,47"/>
+<area shape="rect" id="node3" href="$classqbpp_1_1graph__color_1_1GraphColorMap.html#a71b8ad384f9a9de9c62390d5e3cf27ad" title="Compute the Euclidean distance between two nodes." alt="" coords="634,91,789,132"/>
+<area shape="rect" id="node4" href="$classqbpp_1_1misc_1_1RandomGenerator.html#a95308c2300aeef9a881ba97786367977" title=" " alt="" coords="301,189,553,215"/>
+<area shape="rect" id="node6" href="$classqbpp_1_1graph__color_1_1GraphColorMap.html#a209786c3963fd87b7275b87c06d54cf3" title="Compute the minimum distance between a new node and all other nodes." alt="" coords="334,123,521,164"/>
+<area shape="rect" id="node5" href="$classqbpp_1_1misc_1_1RandomGenerator.html#a6b19f6bde3a3b6ff087a908d11ece3c1" title=" " alt="" coords="601,181,821,223"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="qbpp::graph_color::GraphColorMap::add_node" name="qbpp::graph_color::GraphColorMap::add_node">
+<area shape="rect" id="node1" title="Add a node to the map." alt="" coords="404,5,599,47"/>
+<area shape="rect" id="node2" href="$classqbpp_1_1graph__color_1_1GraphColorMap.html#aaac00a29df1d2986a05b246ec3f61ea9" title="Generate a random map with n nodes." alt="" coords="108,5,356,47"/>
+<area shape="rect" id="node3" href="$graph__color__abs2_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Main function to generate a random map and solve the Graph Coloring Problem using the ABS2 QUBO Solve..." alt="" coords="5,13,60,39"/>
+</map>

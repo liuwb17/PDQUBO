@@ -1,0 +1,4 @@
+<map id="qbpp::tsp::TSPMap::min_dist" name="qbpp::tsp::TSPMap::min_dist">
+<area shape="rect" id="node1" title="Compute the minimum distance between a new node and all other nodes." alt="" coords="5,5,156,47"/>
+<area shape="rect" id="node2" href="$classqbpp_1_1tsp_1_1TSPMap.html#a6ca32411c34b040e6f09790f8376b0d7" title="Compute the Euclidean distance between two nodes." alt="" coords="204,13,379,39"/>
+</map>

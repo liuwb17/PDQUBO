@@ -1,0 +1,5 @@
+<map id="qbpp::tsp::TSPMap::add_node" name="qbpp::tsp::TSPMap::add_node">
+<area shape="rect" id="node1" title="Add a node to the map." alt="" coords="307,5,457,47"/>
+<area shape="rect" id="node2" href="$classqbpp_1_1tsp_1_1TSPMap.html#ace1b4039b9447fae50b62c325acefc6e" title="Generate a random map with n nodes." alt="" coords="108,5,259,47"/>
+<area shape="rect" id="node3" href="$tsp__abs2_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Main function to generate a random map and solve the Traveling Salesman Problem (TSP) using the ABS2 ..." alt="" coords="5,13,60,39"/>
+</map>

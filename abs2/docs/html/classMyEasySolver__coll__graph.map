@@ -1,0 +1,8 @@
+<map id="MyEasySolver" name="MyEasySolver">
+<area shape="rect" id="node1" title=" " alt="" coords="137,289,251,316"/>
+<area shape="rect" id="node2" href="$classqbpp_1_1easy__solver_1_1EasySolver.html" title=" " alt="" coords="217,185,365,227"/>
+<area shape="rect" id="node3" href="$classqbpp_1_1QuadModel.html" title=" " alt="" coords="218,89,354,115"/>
+<area shape="rect" id="node5" href="$classqbpp_1_1tsp_1_1TSPQuadModel.html" title="Class to store the QUBO expression for the Traveling Salesman Problem (TSP)." alt="" coords="5,193,193,219"/>
+<area shape="rect" id="node4" href="$classqbpp_1_1Model.html" title=" " alt="" coords="235,5,337,32"/>
+<area shape="rect" id="node6" href="$classqbpp_1_1Vector.html" title=" " alt="" coords="11,81,188,123"/>
+</map>

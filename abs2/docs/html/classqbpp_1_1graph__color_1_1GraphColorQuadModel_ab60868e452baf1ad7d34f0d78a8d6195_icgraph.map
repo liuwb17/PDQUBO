@@ -1,0 +1,5 @@
+<map id="qbpp::graph_color::GraphColorQuadModel::get_x" name="qbpp::graph_color::GraphColorQuadModel::get_x">
+<area shape="rect" id="node1" title="Returns the reference of the variables for the Graph Coloring Problem." alt="" coords="347,5,516,61"/>
+<area shape="rect" id="node2" href="$classqbpp_1_1graph__color_1_1GraphColorMap.html#ad90af91eeca9f99c1a611d144cae1934" title="Set the color histogram of the nodes." alt="" coords="108,5,299,61"/>
+<area shape="rect" id="node3" href="$graph__color__abs2_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Main function to generate a random map and solve the Graph Coloring Problem using the ABS2 QUBO Solve..." alt="" coords="5,20,60,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="qbpp::tsp::TSPMap::get_grid_size" name="qbpp::tsp::TSPMap::get_grid_size">
+<area shape="rect" id="node1" title="Gets the size of the grid." alt="" coords="241,5,392,47"/>
+<area shape="rect" id="node2" href="$classqbpp_1_1tsp_1_1TSPQuadModel.html#afa2124847942c070b4cb95ab9ae59284" title="Generate a QUBO expression for the Traveling Salesman Problem (TSP)." alt="" coords="5,5,193,47"/>
+</map>

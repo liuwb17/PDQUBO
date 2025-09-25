@@ -1,0 +1,8 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title="Solves the N&#45;Queens problem using EasySolver in the QUBO++ library. library." alt="" coords="5,111,60,138"/>
+<area shape="rect" id="node2" href="$classqbpp_1_1nqueen_1_1NQueenQuadModel.html#a17de6168be88796c8bd27ebaf33f10ea" title="Gets the variable at (i, j)" alt="" coords="116,5,320,47"/>
+<area shape="rect" id="node3" href="$classqbpp_1_1misc_1_1RandomGenerator.html#a1f4f3d675aee33dce174c8222c3bc22a" title=" " alt="" coords="108,71,328,112"/>
+<area shape="rect" id="node5" href="$classqbpp_1_1QuadModel.html#a16af851530b1f63aca9baa8ec67ed01f" title=" " alt="" coords="131,136,305,177"/>
+<area shape="rect" id="node6" href="$classqbpp_1_1Model.html#a5cf2bb955c3aa25951ca499d7d8635d2" title=" " alt="" coords="131,202,305,229"/>
+<area shape="rect" id="node4" href="$classqbpp_1_1misc_1_1RandomGenerator.html#a6b19f6bde3a3b6ff087a908d11ece3c1" title=" " alt="" coords="376,71,596,112"/>
+</map>

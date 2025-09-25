@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classabs2_1_1Callback.html" title="Class to manage callback function for ABS2 QUBO solver." alt="" coords="5,35,123,61"/>
+<area shape="rect" id="node2" href="$classqbpp__abs2_1_1Callback.html" title="A class for defining the ABS2 callback function." alt="" coords="171,35,327,61"/>
+<area shape="rect" id="node3" href="$classABS2Callback.html" title="Class to define ABS2 callback function for factorization." alt="" coords="391,5,503,32"/>
+<area shape="rect" id="node4" href="$classqbpp_1_1factorization_1_1ABS2Callback.html" title="Class to define ABS2 callback function for factorization." alt="" coords="375,57,519,98"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classqbpp_1_1Sol.html" title=" " alt="" coords="5,130,88,157"/>
+<area shape="rect" id="node2" href="$classqbpp_1_1easy__solver_1_1SolDelta.html" title=" " alt="" coords="167,5,315,47"/>
+<area shape="rect" id="node5" href="$classqbpp_1_1exhaustive__solver_1_1Sol.html" title=" " alt="" coords="136,71,345,98"/>
+<area shape="rect" id="node6" href="$classqbpp_1_1exhaustive__solver_1_1SolDelta.html" title=" " alt="" coords="150,123,331,164"/>
+<area shape="rect" id="node7" href="$classqbpp__abs2_1_1Sol.html" title="A class for storing the ABS2 QUBO solution." alt="" coords="181,189,301,215"/>
+<area shape="rect" id="node8" href="$classqbpp__grb_1_1Sol.html" title="Class to store a solution of a QUBO model using Gurobi Optimizer." alt="" coords="185,239,296,266"/>
+<area shape="rect" id="node3" href="$classqbpp_1_1easy__solver_1_1TabuSolDelta.html" title=" " alt="" coords="393,5,541,47"/>
+<area shape="rect" id="node4" href="$classqbpp_1_1easy__solver_1_1PosMinSolDelta.html" title=" " alt="" coords="589,5,737,47"/>
+</map>

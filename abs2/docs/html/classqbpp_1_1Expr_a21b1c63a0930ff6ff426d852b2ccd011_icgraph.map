@@ -1,0 +1,12 @@
+<map id="qbpp::Expr::simplify_as_binary" name="qbpp::Expr::simplify_as_binary">
+<area shape="rect" id="node1" title=" " alt="" coords="509,129,660,171"/>
+<area shape="rect" id="node2" href="$classqbpp_1_1nqueen_1_1NQueenQuadModel.html#a7a3c1501bc6230d15a3b033b26584575" title="Generates qbpp::Expr for the N&#45;Queens problem." alt="" coords="257,5,461,47"/>
+<area shape="rect" id="node4" href="$classqbpp_1_1nqueen_1_1NQueenQuadModel.html#af0ccd64d202250088cc2846f4c86516b" title="Generates the QUBO expression for the N&#45;Queens problem." alt="" coords="257,71,461,112"/>
+<area shape="rect" id="node5" href="$bin__packing__easy_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="332,137,387,163"/>
+<area shape="rect" id="node6" href="$namespaceqbpp_1_1factorization.html#a0c2bd955d729e3d15ebad8da4835229f" title="Function to generate QUBO expression for multiplier." alt="" coords="287,188,431,229"/>
+<area shape="rect" id="node8" href="$namespaceqbpp.html#a17ebda985a4b0bb22a6b4485b59c3774" title=" " alt="" coords="281,254,438,281"/>
+<area shape="rect" id="node3" href="$classqbpp_1_1nqueen_1_1NQueenQuadModel.html#a940443a8bb6cadae0d38f96b92661f58" title="Helper function to compute initial values for member variables." alt="" coords="5,39,209,80"/>
+<area shape="rect" id="node7" href="$factorization_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Solves the factorization problem using ABS2 QUBO Solver and Gurobi optimizer from QUBO++ library." alt="" coords="80,195,135,222"/>
+<area shape="rect" id="node9" href="$classqbpp_1_1Vector.html#afdd07cc64c0c98ea6808efd1dddc547e" title=" " alt="" coords="38,247,177,288"/>
+<area shape="rect" id="node10" href="$classqbpp_1_1Expr.html#ad72e191219081766dd77bd9ac592cb19" title=" " alt="" coords="34,312,181,353"/>
+</map>

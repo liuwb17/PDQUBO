@@ -1,0 +1,11 @@
+<map id="qbpp::factorization::as_uint64" name="qbpp::factorization::as_uint64">
+<area shape="rect" id="node1" title="Converts a vector of Var in a solution to a 64&#45;bit unsigned integer." alt="" coords="5,99,149,141"/>
+<area shape="rect" id="node2" href="$classqbpp_1_1Sol.html#abdb4f6b779678720715f7845f264440f" title=" " alt="" coords="201,56,311,83"/>
+<area shape="rect" id="node7" href="$namespaceqbpp.html#a1cf3f678bcc7eee089c75d4bc5a0b959" title=" " alt="" coords="629,107,712,133"/>
+<area shape="rect" id="node9" href="$classqbpp_1_1Var.html#a39b4a37f86fc995a9d95cb830435e0a7" title=" " alt="" coords="197,157,315,184"/>
+<area shape="rect" id="node3" href="$classqbpp_1_1impl_1_1BitVector.html#a12302d4df0b9f233c0e93ae87f89d6da" title=" " alt="" coords="363,5,549,32"/>
+<area shape="rect" id="node4" href="$classqbpp_1_1Sol.html#a24f5a53fa68071dd9bcda910533bbad7" title=" " alt="" coords="393,56,519,83"/>
+<area shape="rect" id="node5" href="$classqbpp_1_1Model.html#a0712035184681aeb478c5e80bb5221bd" title=" " alt="" coords="597,56,744,83"/>
+<area shape="rect" id="node6" href="$classqbpp_1_1Model.html#a52da2204913c7f529be7e8db017aa14a" title=" " alt="" coords="792,56,923,83"/>
+<area shape="rect" id="node8" href="$namespaceqbpp.html#a844402a465157e00bca032af58c0a795" title=" " alt="" coords="816,107,899,133"/>
+</map>

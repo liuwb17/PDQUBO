@@ -1,0 +1,44 @@
+<map id="sample/bin_packing_easy.cpp" name="sample/bin_packing_easy.cpp">
+<area shape="rect" id="node1" title="This file contains an example of solving the bin packing problem using the EasySolver." alt="" coords="1941,5,2093,47"/>
+<area shape="rect" id="node2" href="$qbpp_8hpp.html" title="QUBO++, a C++ library for generating expressions for binary and spin variables." alt="" coords="1989,251,2071,278"/>
+<area shape="rect" id="node32" href="$qbpp__easy__solver_8hpp.html" title="Easy QUBO Solver for solving QUBO problems." alt="" coords="2096,95,2263,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="3484,341,3637,367"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,341,137,367"/>
+<area shape="rect" id="node5" title=" " alt="" coords="2748,341,2907,367"/>
+<area shape="rect" id="node6" title=" " alt="" coords="2931,341,3071,367"/>
+<area shape="rect" id="node7" title=" " alt="" coords="3182,341,3267,367"/>
+<area shape="rect" id="node8" title=" " alt="" coords="333,333,495,375"/>
+<area shape="rect" id="node9" title=" " alt="" coords="519,333,682,375"/>
+<area shape="rect" id="node10" title=" " alt="" coords="707,341,916,367"/>
+<area shape="rect" id="node11" title=" " alt="" coords="941,341,1103,367"/>
+<area shape="rect" id="node12" title=" " alt="" coords="1127,333,1282,375"/>
+<area shape="rect" id="node13" title=" " alt="" coords="1306,341,1373,367"/>
+<area shape="rect" id="node14" title=" " alt="" coords="3292,341,3355,367"/>
+<area shape="rect" id="node15" title=" " alt="" coords="1397,341,1508,367"/>
+<area shape="rect" id="node16" title=" " alt="" coords="1533,341,1607,367"/>
+<area shape="rect" id="node17" title=" " alt="" coords="3379,341,3459,367"/>
+<area shape="rect" id="node18" title=" " alt="" coords="162,341,221,367"/>
+<area shape="rect" id="node19" title=" " alt="" coords="1631,341,1674,367"/>
+<area shape="rect" id="node20" title=" " alt="" coords="1698,341,1775,367"/>
+<area shape="rect" id="node21" title=" " alt="" coords="1799,341,1863,367"/>
+<area shape="rect" id="node22" title=" " alt="" coords="1887,341,1962,367"/>
+<area shape="rect" id="node23" title=" " alt="" coords="1986,341,2061,367"/>
+<area shape="rect" id="node24" title=" " alt="" coords="2085,341,2143,367"/>
+<area shape="rect" id="node25" title=" " alt="" coords="245,341,309,367"/>
+<area shape="rect" id="node26" title=" " alt="" coords="2168,341,2260,367"/>
+<area shape="rect" id="node27" title=" " alt="" coords="2284,341,2408,367"/>
+<area shape="rect" id="node28" title=" " alt="" coords="2433,341,2547,367"/>
+<area shape="rect" id="node29" title=" " alt="" coords="2572,341,2632,367"/>
+<area shape="rect" id="node30" title=" " alt="" coords="2656,341,2724,367"/>
+<area shape="rect" id="node31" title=" " alt="" coords="3095,341,3157,367"/>
+<area shape="rect" id="node33" title=" " alt="" coords="2172,251,2355,278"/>
+<area shape="rect" id="node34" title=" " alt="" coords="3366,251,3438,278"/>
+<area shape="rect" id="node35" title=" " alt="" coords="3462,251,3505,278"/>
+<area shape="rect" id="node36" href="$qbpp__misc_8hpp.html" title="A miscellaneous library used for sample programs of the QUBO++ library." alt="" coords="2533,169,2653,196"/>
+<area shape="rect" id="node42" title=" " alt="" coords="2779,169,2860,196"/>
+<area shape="rect" id="node37" title=" " alt="" coords="2681,251,2747,278"/>
+<area shape="rect" id="node38" title=" " alt="" coords="2772,251,2960,278"/>
+<area shape="rect" id="node39" title=" " alt="" coords="2984,244,3151,285"/>
+<area shape="rect" id="node40" title=" " alt="" coords="3175,244,3341,285"/>
+<area shape="rect" id="node41" title=" " alt="" coords="2379,251,2454,278"/>
+</map>

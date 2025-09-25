@@ -1,0 +1,4 @@
+<map id="qbpp_abs2::Callback::get_sol" name="qbpp_abs2::Callback::get_sol">
+<area shape="rect" id="node1" title="Get the solution from the ABS2 solver." alt="" coords="5,5,161,47"/>
+<area shape="rect" id="node2" href="$classabs2_1_1Callback.html#abe677099f6a83a3c588d1609a542420e" title="Get the current solution." alt="" coords="209,13,356,39"/>
+</map>

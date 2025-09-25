@@ -1,0 +1,6 @@
+<map id="qbpp::factorization::rand_prime" name="qbpp::factorization::rand_prime">
+<area shape="rect" id="node1" title="Generates a random prime number of the specified size." alt="" coords="5,35,149,76"/>
+<area shape="rect" id="node2" href="$classqbpp_1_1misc_1_1RandomGenerator.html#a95308c2300aeef9a881ba97786367977" title=" " alt="" coords="197,13,449,39"/>
+<area shape="rect" id="node4" href="$namespaceqbpp_1_1factorization.html#a121fd80bab50d9715e8006fe6a357d7f" title=" " alt="" coords="251,64,395,105"/>
+<area shape="rect" id="node3" href="$classqbpp_1_1misc_1_1RandomGenerator.html#a6b19f6bde3a3b6ff087a908d11ece3c1" title=" " alt="" coords="497,5,717,47"/>
+</map>

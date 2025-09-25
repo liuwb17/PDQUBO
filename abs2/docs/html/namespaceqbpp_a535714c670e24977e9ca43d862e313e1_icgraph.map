@@ -1,0 +1,7 @@
+<map id="qbpp::list_to_dict" name="qbpp::list_to_dict">
+<area shape="rect" id="node1" title=" " alt="" coords="495,35,628,61"/>
+<area shape="rect" id="node2" href="$classqbpp_1_1Expr.html#a73c90484dacb24529c129a00da3d8611" title=" " alt="" coords="300,35,447,61"/>
+<area shape="rect" id="node3" href="$factorization_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Solves the factorization problem using ABS2 QUBO Solver and Gurobi optimizer from QUBO++ library." alt="" coords="5,5,60,32"/>
+<area shape="rect" id="node4" href="$namespaceqbpp_1_1factorization.html#a0c2bd955d729e3d15ebad8da4835229f" title="Function to generate QUBO expression for multiplier." alt="" coords="108,27,252,69"/>
+<area shape="rect" id="node5" href="$namespaceqbpp.html#ab3efb11e8167e5a1b4ec8cc2f5a98da3" title=" " alt="" coords="125,93,235,120"/>
+</map>

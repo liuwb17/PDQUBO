@@ -1,0 +1,30 @@
+<map id="qbpp::Terms::size" name="qbpp::Terms::size">
+<area shape="rect" id="node1" title=" " alt="" coords="715,377,849,404"/>
+<area shape="rect" id="node2" href="$classqbpp_1_1impl_1_1IndexVarMapper.html#a961ad5c58bb7e2879764d5606da7cdc3" title=" " alt="" coords="227,51,432,93"/>
+<area shape="rect" id="node3" href="$namespaceqbpp.html#a4debed5e5fafbaf22768687291462387" title=" " alt="" coords="483,252,664,279"/>
+<area shape="rect" id="node4" href="$structqbpp_1_1QuadModel_1_1Impl.html#a17282586c31a1881bd2228a3111c2aa8" title=" " alt="" coords="5,106,179,147"/>
+<area shape="rect" id="node5" href="$classqbpp_1_1Terms.html#ae2b6dd343c1f53ccca116a7682f318c5" title=" " alt="" coords="496,327,651,353"/>
+<area shape="rect" id="node8" href="$namespaceqbpp.html#a0175f34e085bee1698b7912d8b93635e" title=" " alt="" coords="511,377,635,404"/>
+<area shape="rect" id="node9" href="$classqbpp_1_1Expr.html#a45245093e2276b9ec88adaeff2c3829a" title=" " alt="" coords="487,428,659,455"/>
+<area shape="rect" id="node10" href="$classqbpp_1_1Terms.html#a7e850a271561f1f514b00856eb6e9605" title=" " alt="" coords="480,479,667,505"/>
+<area shape="rect" id="node11" href="$classqbpp_1_1Expr.html#a1c0519042e801e2b1dcb4ba9e64caed8" title=" " alt="" coords="489,529,658,556"/>
+<area shape="rect" id="node12" href="$classqbpp_1_1Expr.html#a73c90484dacb24529c129a00da3d8611" title=" " alt="" coords="500,580,647,607"/>
+<area shape="rect" id="node16" href="$namespaceqbpp.html#a9456e7fa594d0169fcc26f37fdda29ad" title=" " alt="" coords="516,656,631,683"/>
+<area shape="rect" id="node21" href="$classqbpp_1_1Expr.html#a39a41ce95a2323c0098ae64ece919fd8" title=" " alt="" coords="487,201,660,228"/>
+<area shape="rect" id="node6" href="$classqbpp_1_1Expr.html#a24f6aec26fadeccd7594302ab453ef4c" title=" " alt="" coords="257,437,401,464"/>
+<area shape="rect" id="node7" href="$namespaceqbpp.html#adbeffb3d997ed215c0968947900c36bc" title=" " alt="" coords="31,437,153,464"/>
+<area shape="rect" id="node13" href="$factorization_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Solves the factorization problem using ABS2 QUBO Solver and Gurobi optimizer from QUBO++ library." alt="" coords="65,551,119,577"/>
+<area shape="rect" id="node14" href="$namespaceqbpp_1_1factorization.html#a0c2bd955d729e3d15ebad8da4835229f" title="Function to generate QUBO expression for multiplier." alt="" coords="257,489,401,530"/>
+<area shape="rect" id="node15" href="$namespaceqbpp.html#ab3efb11e8167e5a1b4ec8cc2f5a98da3" title=" " alt="" coords="274,555,385,581"/>
+<area shape="rect" id="node17" href="$classqbpp_1_1Expr.html#afd67aef307d047fbe58759c6c39aba13" title=" " alt="" coords="254,656,405,683"/>
+<area shape="rect" id="node18" href="$classqbpp_1_1Vector.html#a3012b501cdf4d76312c87d052996a66c" title=" " alt="" coords="248,707,411,733"/>
+<area shape="rect" id="node19" href="$classqbpp_1_1Vector.html#ac31d4aa7fe7203fe6b9fcf113d5431a7" title=" " alt="" coords="11,731,173,773"/>
+<area shape="rect" id="node20" href="$classqbpp_1_1Vector.html#a86c92c064e891af5b9a9c68354e107c2" title=" " alt="" coords="11,666,173,707"/>
+<area shape="rect" id="node22" href="$namespaceqbpp.html#ad031a05cdcfce3df0ae410a6a89ef045" title=" " alt="" coords="236,219,423,261"/>
+<area shape="rect" id="node23" href="$classqbpp_1_1Expr.html#a8b67a0dd1b4d9639141e6f192ce27e0a" title=" " alt="" coords="243,285,415,312"/>
+<area shape="rect" id="node24" href="$namespaceqbpp.html#ad50977512d7663999ba81fc1e91f3406" title=" " alt="" coords="31,336,153,363"/>
+<area shape="rect" id="node25" href="$classqbpp_1_1Expr.html#a78d84078c6294d18aa58205b7a015541" title=" " alt="" coords="267,387,392,413"/>
+<area shape="rect" id="node27" href="$namespaceqbpp.html#a375a2df55223523ba27620ac306cf598" title=" " alt="" coords="272,117,387,144"/>
+<area shape="rect" id="node28" href="$namespaceqbpp.html#a75ec4f70aaf822424842c81e415834c6" title=" " alt="" coords="270,168,389,195"/>
+<area shape="rect" id="node26" href="$classqbpp_1_1Expr.html#ac6b458207601269f54271682aaab22f6" title=" " alt="" coords="5,387,179,413"/>
+</map>

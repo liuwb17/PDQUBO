@@ -1,0 +1,10 @@
+<map id="qbpp::Model::expr" name="qbpp::Model::expr">
+<area shape="rect" id="node1" title=" " alt="" coords="509,163,648,189"/>
+<area shape="rect" id="node2" href="$classqbpp_1_1Model.html#a67c0d56d86152d5540c73491528656de" title=" " alt="" coords="267,5,451,32"/>
+<area shape="rect" id="node3" href="$classqbpp_1_1nqueen_1_1NQueenQuadModel.html#a7a3c1501bc6230d15a3b033b26584575" title="Generates qbpp::Expr for the N&#45;Queens problem." alt="" coords="257,57,461,98"/>
+<area shape="rect" id="node5" href="$classqbpp_1_1nqueen_1_1NQueenQuadModel.html#af0ccd64d202250088cc2846f4c86516b" title="Generates the QUBO expression for the N&#45;Queens problem." alt="" coords="257,122,461,163"/>
+<area shape="rect" id="node6" href="$classqbpp_1_1tsp_1_1TSPQuadModel.html#afa2124847942c070b4cb95ab9ae59284" title="Generate a QUBO expression for the Traveling Salesman Problem (TSP)." alt="" coords="265,187,453,229"/>
+<area shape="rect" id="node7" href="$structqbpp_1_1QuadModel_1_1Impl.html#a17282586c31a1881bd2228a3111c2aa8" title=" " alt="" coords="273,253,446,294"/>
+<area shape="rect" id="node8" href="$namespaceqbpp.html#a6ecdcc61418dea3e7792fc9209924b73" title=" " alt="" coords="320,319,399,345"/>
+<area shape="rect" id="node4" href="$classqbpp_1_1nqueen_1_1NQueenQuadModel.html#a940443a8bb6cadae0d38f96b92661f58" title="Helper function to compute initial values for member variables." alt="" coords="5,90,209,131"/>
+</map>

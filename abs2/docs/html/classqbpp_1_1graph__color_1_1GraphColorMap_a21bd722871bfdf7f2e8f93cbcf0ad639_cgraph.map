@@ -1,0 +1,4 @@
+<map id="qbpp::graph_color::GraphColorMap::gen_proximity_edges" name="qbpp::graph_color::GraphColorMap::gen_proximity_edges">
+<area shape="rect" id="node1" title="Create an edges between nodes that are close to each other." alt="" coords="5,5,276,47"/>
+<area shape="rect" id="node2" href="$classqbpp_1_1graph__color_1_1GraphColorMap.html#a71b8ad384f9a9de9c62390d5e3cf27ad" title="Compute the Euclidean distance between two nodes." alt="" coords="324,5,479,47"/>
+</map>

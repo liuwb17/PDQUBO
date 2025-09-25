@@ -1,0 +1,9 @@
+<map id="qbpp::factorization::adder" name="qbpp::factorization::adder">
+<area shape="rect" id="node1" title="function to generate QUBO expression for n&#45;bit adder" alt="" coords="5,90,149,131"/>
+<area shape="rect" id="node2" href="$namespaceqbpp.html#ac1b198c35eb8831b6ac3ad2048caee66" title=" " alt="" coords="224,5,315,32"/>
+<area shape="rect" id="node3" href="$namespaceqbpp_1_1factorization.html#af6b0ff4cf1a09dbca5f12e0e6f040023" title="Function to generate a QUBO expression Expr object for the Full Adder." alt="" coords="197,57,341,98"/>
+<area shape="rect" id="node6" href="$namespaceqbpp_1_1factorization.html#aeb9af8fc3150bce913920c5dbbb83828" title="Function to generates a QUBO expression Expr object for the Half Adder." alt="" coords="197,122,341,163"/>
+<area shape="rect" id="node7" href="$classqbpp_1_1Vector.html#af719287ecdb5f44bbd0aa5d9ba3aaea1" title=" " alt="" coords="201,188,338,215"/>
+<area shape="rect" id="node4" href="$namespaceqbpp.html#ab5da6d0960920098998bb7347082ee6b" title=" " alt="" coords="389,97,480,124"/>
+<area shape="rect" id="node5" href="$namespaceqbpp.html#add51cb422256f9e89483b8cd0deb4721" title=" " alt="" coords="528,97,619,124"/>
+</map>

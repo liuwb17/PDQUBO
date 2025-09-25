@@ -1,0 +1,5 @@
+<map id="qbpp::nqueen::NQueenQuadModel" name="qbpp::nqueen::NQueenQuadModel">
+<area shape="rect" id="node1" title="Class to generate a QUBO model for the N&#45;Queens problem." alt="" coords="5,155,209,196"/>
+<area shape="rect" id="node2" href="$classqbpp_1_1QuadModel.html" title=" " alt="" coords="39,80,175,107"/>
+<area shape="rect" id="node3" href="$classqbpp_1_1Model.html" title=" " alt="" coords="56,5,159,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="qbpp::factorization::SolHolder::get_bound_str" name="qbpp::factorization::SolHolder::get_bound_str">
+<area shape="rect" id="node1" title="Gets the bound value of the best solution as a string." alt="" coords="197,13,391,54"/>
+<area shape="rect" id="node2" href="$classqbpp_1_1factorization_1_1SolHolder.html#a46e8fb339ad5d7983403f1785f5c24e5" title="Sets new_sol as the best solution if it is better than the current best solution." alt="" coords="5,5,149,61"/>
+</map>

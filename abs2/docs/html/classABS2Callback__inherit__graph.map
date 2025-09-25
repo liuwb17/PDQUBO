@@ -1,0 +1,5 @@
+<map id="ABS2Callback" name="ABS2Callback">
+<area shape="rect" id="node1" title="Class to define ABS2 callback function for factorization." alt="" coords="27,155,139,181"/>
+<area shape="rect" id="node2" href="$classqbpp__abs2_1_1Callback.html" title="A class for defining the ABS2 callback function." alt="" coords="5,80,161,107"/>
+<area shape="rect" id="node3" href="$classabs2_1_1Callback.html" title="Class to manage callback function for ABS2 QUBO solver." alt="" coords="25,5,142,32"/>
+</map>

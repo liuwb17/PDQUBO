@@ -1,0 +1,43 @@
+<map id="qbpp::Model::var_count" name="qbpp::Model::var_count">
+<area shape="rect" id="node1" title=" " alt="" coords="1920,533,2095,560"/>
+<area shape="rect" id="node2" href="$classqbpp_1_1factorization_1_1GRB__Callback.html#a5b00538ab4f4123134dacfaa79c3cd4c" title="callback function for Gurobi optimizer." alt="" coords="1413,11,1595,53"/>
+<area shape="rect" id="node3" href="$classqbpp__grb_1_1Callback.html#a6d111191d65a98194fec8779fac6dadd" title="Get the solution obtained by Gurobi Optimizer." alt="" coords="1691,74,1838,115"/>
+<area shape="rect" id="node6" href="$structqbpp_1_1QuadModel_1_1Impl.html#a17282586c31a1881bd2228a3111c2aa8" title=" " alt="" coords="1678,139,1851,181"/>
+<area shape="rect" id="node7" href="$classqbpp_1_1exhaustive__solver_1_1SearchAlgorithm.html#a4c70861e652f494ba0659c5bfb1bb3f7" title=" " alt="" coords="1674,205,1855,261"/>
+<area shape="rect" id="node8" href="$graph__color__abs2_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Main function to generate a random map and solve the Graph Coloring Problem using the ABS2 QUBO Solve..." alt="" coords="1737,285,1792,312"/>
+<area shape="rect" id="node9" href="$classqbpp__grb_1_1QuadModel.html#ad3add2ab2e0d80e5d0d8123deebc6e98" title="Optimize the QUBO model." alt="" coords="1683,337,1847,378"/>
+<area shape="rect" id="node11" href="$group__qbpp__abs2.html#gab125241142be7f65e2a913158e00394a" title="Constructor: Create an ABS2 model from a QUBO model." alt="" coords="1677,402,1852,443"/>
+<area shape="rect" id="node12" href="$group__qbpp__grb.html#ga3e5106bc14a17c6521c932753c76fe96" title="Constructor to create a model from QuadModel object." alt="" coords="1683,467,1847,509"/>
+<area shape="rect" id="node13" href="$classqbpp_1_1exhaustive__solver_1_1SolDelta.html#a3849dd84e16e534fe2e69b63f0079149" title=" " alt="" coords="1413,650,1595,691"/>
+<area shape="rect" id="node17" href="$group__qbpp__abs2.html#gaba8e35f84b2f822cd2633b61358370db" title="Construct a new Sol object from an ABS2 solution." alt="" coords="1691,701,1839,728"/>
+<area shape="rect" id="node18" href="$classqbpp_1_1exhaustive__solver_1_1SolDelta.html#a6f368c3a2224a71803d9ee2711effa9b" title=" " alt="" coords="1674,753,1855,794"/>
+<area shape="rect" id="node19" href="$namespaceqbpp.html#a8fa3af2cffc1996530310aac6e4b0576" title=" " alt="" coords="1725,819,1804,845"/>
+<area shape="rect" id="node20" href="$classqbpp_1_1Sol.html#a06cbfd519670efbc74363592d5e826b2" title=" " alt="" coords="1687,869,1842,896"/>
+<area shape="rect" id="node22" href="$classqbpp_1_1easy__solver_1_1EasySolver.html#a5aca8737256d008df76e3f53cce1f53a" title=" " alt="" coords="1681,921,1848,962"/>
+<area shape="rect" id="node37" href="$classqbpp_1_1exhaustive__solver_1_1ExhaustiveSolver.html#a156ffd892212e98e1f210fce907a28ec" title=" " alt="" coords="1657,986,1872,1027"/>
+<area shape="rect" id="node38" href="$classqbpp_1_1exhaustive__solver_1_1SearchAlgorithm.html#a4c1877de640b8a605c36f2f32eae246b" title=" " alt="" coords="1399,519,1609,561"/>
+<area shape="rect" id="node40" href="$classqbpp_1_1exhaustive__solver_1_1SolDelta.html#a4ca4e09dec03e09553fc50a7d05c0778" title=" " alt="" coords="1674,585,1855,626"/>
+<area shape="rect" id="node4" href="$classqbpp__grb_1_1Callback.html#a8b785f76ab9c73fa92b97bb8da6f5e37" title="Default callback function for Gurobi Optimizer." alt="" coords="1431,77,1577,118"/>
+<area shape="rect" id="node5" href="$classGRB__Callback.html#ac08cbd22e13d589be7ca35178d3126d0" title="callback function for Gurobi optimizer." alt="" coords="1417,143,1591,169"/>
+<area shape="rect" id="node10" href="$tsp__grb_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Main function to generate a random map and solve the Traveling Salesman Problem (TSP) using the Gurob..." alt="" coords="1477,344,1531,371"/>
+<area shape="rect" id="node14" href="$classqbpp_1_1exhaustive__solver_1_1SolDelta.html#a926e9faffb265b7208b75663e76f77da" title=" " alt="" coords="1143,650,1324,691"/>
+<area shape="rect" id="node15" href="$classqbpp_1_1exhaustive__solver_1_1SearchAlgorithm.html#a3a2b22a2908c11bf374b4f06b2ad1815" title=" " alt="" coords="879,577,1068,618"/>
+<area shape="rect" id="node16" href="$classqbpp_1_1exhaustive__solver_1_1ExhaustiveSolver.html#a967d19602b7de9fef4198508924c7a25" title=" " alt="" coords="636,577,831,618"/>
+<area shape="rect" id="node21" href="$group__qbpp__abs2.html#gac27ae911e72fdeb424a950d41fbef95c" title="Construct a new Sol object from a QUBO++ QUBO solution." alt="" coords="1430,869,1578,896"/>
+<area shape="rect" id="node23" href="$classqbpp_1_1easy__solver_1_1EasySolver.html#a329a03e4e5c401ec471e0f7f4c42cb51" title=" " alt="" coords="397,1025,588,1066"/>
+<area shape="rect" id="node27" href="$classqbpp_1_1easy__solver_1_1SolDelta.html#a98373d99b30ddd261919266c2ac59f57" title=" " alt="" coords="1429,1123,1579,1165"/>
+<area shape="rect" id="node24" href="$classqbpp_1_1easy__solver_1_1EasySolver.html#a9a61ebfb6366c734e7af2b08890753f0" title=" " alt="" coords="201,1025,349,1066"/>
+<area shape="rect" id="node25" href="$graph__color__easy_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Main function to generate a random map and solve the Graph Coloring Problem using the Easy Solver." alt="" coords="52,1003,107,1029"/>
+<area shape="rect" id="node26" href="$classqbpp_1_1easy__solver_1_1EasySolver.html#a8d5bc85759b94bc1c1bf2db59fc323b0" title=" " alt="" coords="5,1054,153,1095"/>
+<area shape="rect" id="node28" href="$classqbpp_1_1easy__solver_1_1SolDelta.html#a1a107d8974386a07d201e88fb2c9aed9" title=" " alt="" coords="1159,1026,1307,1067"/>
+<area shape="rect" id="node30" href="$classqbpp_1_1easy__solver_1_1PosMinSolDelta.html#aff102bc17a0d06a78a285f1ab2c9632e" title=" " alt="" coords="646,1090,821,1131"/>
+<area shape="rect" id="node32" href="$classqbpp_1_1easy__solver_1_1SolDelta.html#ae5e7dbc16325f4f3b26895fe8686afc5" title=" " alt="" coords="899,1274,1047,1315"/>
+<area shape="rect" id="node33" href="$classqbpp_1_1easy__solver_1_1SolDelta.html#ad0505230c61ae317b5414f06327daeb4" title=" " alt="" coords="892,975,1055,1017"/>
+<area shape="rect" id="node34" href="$classqbpp_1_1easy__solver_1_1PosMinSolDelta.html#af512f524573c98e13ee2e236cc147c17" title=" " alt="" coords="1116,1091,1351,1133"/>
+<area shape="rect" id="node35" href="$classqbpp_1_1easy__solver_1_1PosMinSolDelta.html#ad8811137073388d35654ad8d6f8db0f2" title=" " alt="" coords="1152,1157,1315,1198"/>
+<area shape="rect" id="node36" href="$classqbpp_1_1easy__solver_1_1SolDelta.html#a2a6c5b08bc697bd6f633b68fcdd550e1" title=" " alt="" coords="1159,1274,1307,1315"/>
+<area shape="rect" id="node29" href="$classqbpp_1_1easy__solver_1_1TabuSolDelta.html#abddd3367c047935e82e517c421cb5a9a" title=" " alt="" coords="899,1041,1047,1082"/>
+<area shape="rect" id="node31" href="$classqbpp_1_1easy__solver_1_1SolDelta.html#acf11d3f5b86a20077d4c20dc9c18e044" title=" " alt="" coords="899,1106,1047,1147"/>
+<area shape="rect" id="node39" href="$classqbpp_1_1exhaustive__solver_1_1SearchAlgorithm.html#ad031941ba26d6f9e9262803068fbfc7e" title=" " alt="" coords="1143,569,1324,625"/>
+<area shape="rect" id="node41" href="$classqbpp_1_1exhaustive__solver_1_1SolDelta.html#ae53a1eb415153c3d6e02794123a87b5a" title=" " alt="" coords="1413,585,1595,626"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="abs2::Param::set" name="abs2::Param::set">
+<area shape="rect" id="node1" title="Set &quot;val&quot; to &quot;key&quot;." alt="" coords="325,97,456,124"/>
+<area shape="rect" id="node2" href="$tsp__abs2_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Main function to generate a random map and solve the Traveling Salesman Problem (TSP) using the ABS2 ..." alt="" coords="165,5,220,32"/>
+<area shape="rect" id="node3" href="$group__qbpp__abs2.html#ga7665b9e646b22156b8680c64cd08c92c" title="Executes ABS2 for &quot;quad_model&quot; with &quot;param&quot; and returns &quot;sol&quot;." alt="" coords="118,57,267,98"/>
+<area shape="rect" id="node4" href="$group__qbpp__abs2.html#ga2754c68b51c3d0452731e5da95920fe2" title="Set the arithmetic bits." alt="" coords="108,122,277,163"/>
+<area shape="rect" id="node5" href="$group__qbpp__abs2.html#ga33c85eefb81407d622de58bd2775598c" title="Set the time limit for ABS2 QUBO solver." alt="" coords="108,187,277,229"/>
+<area shape="rect" id="node6" href="$graph__color__abs2_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Main function to generate a random map and solve the Graph Coloring Problem using the ABS2 QUBO Solve..." alt="" coords="5,195,60,221"/>
+</map>

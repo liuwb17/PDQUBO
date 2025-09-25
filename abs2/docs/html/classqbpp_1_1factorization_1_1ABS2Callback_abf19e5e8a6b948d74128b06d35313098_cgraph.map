@@ -1,0 +1,8 @@
+<map id="qbpp::factorization::ABS2Callback::callback" name="qbpp::factorization::ABS2Callback::callback">
+<area shape="rect" id="node1" title="The default callback function for ABS2 QUBO solver." alt="" coords="5,64,188,105"/>
+<area shape="rect" id="node2" href="$group__qbpp__abs2.html#ga5946dc74bd5efe6937f6fd3d2fbc4551" title="Get the solution from the ABS2 solver." alt="" coords="236,5,392,47"/>
+<area shape="rect" id="node4" href="$classabs2_1_1Callback.html#a365f96a6e4f72d37ae897841d07e55ab" title="Set the operation to the ABS2 Callback." alt="" coords="442,71,587,98"/>
+<area shape="rect" id="node5" href="$group__qbpp__abs2.html#gacde6f2007700c2ac188f3a88c5bba1d0" title="Provide a hint solution to the ABS2 solver." alt="" coords="236,123,392,164"/>
+<area shape="rect" id="node3" href="$classabs2_1_1Callback.html#abe677099f6a83a3c588d1609a542420e" title="Get the current solution." alt="" coords="441,13,588,39"/>
+<area shape="rect" id="node6" href="$classqbpp__abs2_1_1Sol.html#a8de3bebb198a0820db0446f9686e914d" title="Returns the reference to the ABS2 solution." alt="" coords="440,123,589,164"/>
+</map>

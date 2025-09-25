@@ -1,0 +1,8 @@
+<map id="qbpp::vector_sum" name="qbpp::vector_sum">
+<area shape="rect" id="node1" title=" " alt="" coords="509,123,648,150"/>
+<area shape="rect" id="node2" href="$classqbpp_1_1nqueen_1_1NQueenQuadModel.html#a7a3c1501bc6230d15a3b033b26584575" title="Generates qbpp::Expr for the N&#45;Queens problem." alt="" coords="257,5,461,47"/>
+<area shape="rect" id="node4" href="$classqbpp_1_1graph__color_1_1GraphColorQuadModel.html#a5137f108589790091a08b0c8f1bfc049" title="Helper function to generate the QUBO expression for the GraphColorMap object and the number of colors..." alt="" coords="275,71,444,127"/>
+<area shape="rect" id="node5" href="$classqbpp_1_1tsp_1_1TSPQuadModel.html#afa2124847942c070b4cb95ab9ae59284" title="Generate a QUBO expression for the Traveling Salesman Problem (TSP)." alt="" coords="265,152,453,193"/>
+<area shape="rect" id="node6" href="$bin__packing__easy_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="332,218,387,245"/>
+<area shape="rect" id="node3" href="$classqbpp_1_1nqueen_1_1NQueenQuadModel.html#a940443a8bb6cadae0d38f96b92661f58" title="Helper function to compute initial values for member variables." alt="" coords="5,5,209,47"/>
+</map>

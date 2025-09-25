@@ -1,0 +1,19 @@
+<map id="qbpp::toExpr" name="qbpp::toExpr">
+<area shape="rect" id="node1" title=" " alt="" coords="752,259,856,285"/>
+<area shape="rect" id="node2" href="$namespaceqbpp.html#ad0eb856966f34efefd49d26a089f5a4d" title=" " alt="" coords="551,5,662,32"/>
+<area shape="rect" id="node3" href="$namespaceqbpp.html#aa7311e85eb4a80742f90b6225a5ebde6" title=" " alt="" coords="561,56,652,83"/>
+<area shape="rect" id="node4" href="$namespaceqbpp.html#a771f1a64025858d915df0123983aa772" title=" " alt="" coords="555,107,659,133"/>
+<area shape="rect" id="node5" href="$namespaceqbpp.html#a7c589f0c4bd359baa6ebaf0ad135a9f6" title=" " alt="" coords="533,157,681,184"/>
+<area shape="rect" id="node6" href="$namespaceqbpp.html#add07cae928b6584059b1276e52821836" title=" " alt="" coords="515,208,699,235"/>
+<area shape="rect" id="node7" href="$namespaceqbpp.html#a2733233894731d32bf82bd70ed665a2a" title=" " alt="" coords="543,259,670,285"/>
+<area shape="rect" id="node8" href="$namespaceqbpp.html#ae7d9881501e697d70678c1782afccaea" title=" " alt="" coords="525,309,688,336"/>
+<area shape="rect" id="node9" href="$namespaceqbpp.html#a5d07d485d2f6f80cb1430593dbcccafb" title=" " alt="" coords="527,360,686,387"/>
+<area shape="rect" id="node10" href="$namespaceqbpp.html#a2e64e181c4cb360a3ee45c055802e029" title=" " alt="" coords="509,411,704,437"/>
+<area shape="rect" id="node11" href="$namespaceqbpp.html#a008af6dfb07e3e463ee6d83c547c3ff0" title=" " alt="" coords="537,461,676,488"/>
+<area shape="rect" id="node17" href="$namespaceqbpp.html#a528c53cddc5cd6fca5f732a565121fa9" title=" " alt="" coords="519,512,694,539"/>
+<area shape="rect" id="node12" href="$classqbpp_1_1nqueen_1_1NQueenQuadModel.html#a7a3c1501bc6230d15a3b033b26584575" title="Generates qbpp::Expr for the N&#45;Queens problem." alt="" coords="257,343,461,385"/>
+<area shape="rect" id="node14" href="$classqbpp_1_1graph__color_1_1GraphColorQuadModel.html#a5137f108589790091a08b0c8f1bfc049" title="Helper function to generate the QUBO expression for the GraphColorMap object and the number of colors..." alt="" coords="275,409,444,465"/>
+<area shape="rect" id="node15" href="$classqbpp_1_1tsp_1_1TSPQuadModel.html#afa2124847942c070b4cb95ab9ae59284" title="Generate a QUBO expression for the Traveling Salesman Problem (TSP)." alt="" coords="265,490,453,531"/>
+<area shape="rect" id="node16" href="$bin__packing__easy_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="332,556,387,583"/>
+<area shape="rect" id="node13" href="$classqbpp_1_1nqueen_1_1NQueenQuadModel.html#a940443a8bb6cadae0d38f96b92661f58" title="Helper function to compute initial values for member variables." alt="" coords="5,343,209,385"/>
+</map>

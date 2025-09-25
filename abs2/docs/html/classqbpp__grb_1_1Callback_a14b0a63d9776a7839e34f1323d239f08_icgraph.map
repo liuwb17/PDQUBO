@@ -1,0 +1,5 @@
+<map id="qbpp_grb::Callback::abort_if_target_energy" name="qbpp_grb::Callback::abort_if_target_energy">
+<area shape="rect" id="node1" title="Abort the optimization process if the target energy is achieved." alt="" coords="236,39,415,80"/>
+<area shape="rect" id="node2" href="$classqbpp__grb_1_1Callback.html#a8b785f76ab9c73fa92b97bb8da6f5e37" title="Default callback function for Gurobi Optimizer." alt="" coords="23,5,170,47"/>
+<area shape="rect" id="node3" href="$classqbpp_1_1factorization_1_1GRB__Callback.html#a5b00538ab4f4123134dacfaa79c3cd4c" title="callback function for Gurobi optimizer." alt="" coords="5,71,188,112"/>
+</map>

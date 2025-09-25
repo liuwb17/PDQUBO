@@ -1,0 +1,5 @@
+<map id="qbpp::tsp::TSPQuadModel::get_var" name="qbpp::tsp::TSPQuadModel::get_var">
+<area shape="rect" id="node1" title="Get the variable at (i, j)." alt="" coords="196,39,384,80"/>
+<area shape="rect" id="node2" href="$classqbpp_1_1tsp_1_1TSPSol.html#a850469299d3a30962180e13657e16452" title="helper function to generate a tour from the solution." alt="" coords="5,5,148,47"/>
+<area shape="rect" id="node3" href="$classqbpp_1_1tsp_1_1TSPSol.html#aeaddec0d0368bef74ebcbda49fe863fe" title=" " alt="" coords="5,71,148,112"/>
+</map>

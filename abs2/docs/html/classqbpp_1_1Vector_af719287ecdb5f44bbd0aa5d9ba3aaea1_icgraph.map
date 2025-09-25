@@ -1,0 +1,52 @@
+<map id="qbpp::Vector::size" name="qbpp::Vector::size">
+<area shape="rect" id="node1" title=" " alt="" coords="779,794,916,821"/>
+<area shape="rect" id="node2" href="$namespaceqbpp_1_1factorization.html#a1e5c7d80129600dc5345d9e9dd5602d9" title="function to generate QUBO expression for n&#45;bit adder" alt="" coords="325,5,469,47"/>
+<area shape="rect" id="node3" href="$namespaceqbpp_1_1factorization.html#a0c2bd955d729e3d15ebad8da4835229f" title="Function to generate QUBO expression for multiplier." alt="" coords="108,325,252,367"/>
+<area shape="rect" id="node5" href="$namespaceqbpp.html#a52854218b14a58db1c7a1660137c5375" title=" " alt="" coords="595,150,678,177"/>
+<area shape="rect" id="node6" href="$namespaceqbpp.html#a3ef6a17c9562b454351f51950aab4392" title=" " alt="" coords="560,201,713,227"/>
+<area shape="rect" id="node11" href="$namespaceqbpp.html#a8d661583b47e9b7925281d8e1c7c34e2" title=" " alt="" coords="546,251,727,278"/>
+<area shape="rect" id="node12" href="$namespaceqbpp.html#a481905d7a1c024060ed5610590af9b9d" title=" " alt="" coords="594,302,679,329"/>
+<area shape="rect" id="node13" href="$classqbpp_1_1Sol.html#a97b2220c9849ce534280e5a54944a54b" title=" " alt="" coords="342,718,453,745"/>
+<area shape="rect" id="node14" href="$bin__packing__easy_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="609,419,664,446"/>
+<area shape="rect" id="node15" href="$classqbpp_1_1graph__color_1_1GraphColorQuadModel.html#a64a8634684f7ec725b804b76b383e093" title="Returns the number of nodes in the TSP." alt="" coords="552,470,721,526"/>
+<area shape="rect" id="node16" href="$classqbpp_1_1tsp_1_1TSPQuadModel.html#a3c1e511fe6fbd822ec7f871484cfd67a" title="Returns the number of nodes in the TSP." alt="" coords="543,353,731,395"/>
+<area shape="rect" id="node21" href="$classqbpp_1_1tsp_1_1TSPModel.html#a2ea1cc5abb5a7448081a83e7355c2ce9" title="Returns the number of nodes in the TSP." alt="" coords="559,601,714,643"/>
+<area shape="rect" id="node22" href="$namespaceqbpp.html#afc344ea88cf7416a6827b5cec17838df" title=" " alt="" coords="561,550,712,577"/>
+<area shape="rect" id="node24" href="$namespaceqbpp.html#a7f7f438ebf6b13425cb0e91fad6e7427" title=" " alt="" coords="575,718,699,745"/>
+<area shape="rect" id="node25" href="$classqbpp_1_1Vector.html#ae74b049c1530b53419f2f7e7ebf83868" title=" " alt="" coords="546,769,727,795"/>
+<area shape="rect" id="node26" href="$classqbpp_1_1Vector.html#aa13b86b709b997256ef2607b5ac561d0" title=" " alt="" coords="548,819,725,846"/>
+<area shape="rect" id="node27" href="$namespaceqbpp.html#ac7e482be6e10c77f2c6734c5c77337a5" title=" " alt="" coords="581,667,692,694"/>
+<area shape="rect" id="node29" href="$namespaceqbpp.html#a7f95a13d75087651ef3476dd1712e255" title=" " alt="" coords="581,921,692,947"/>
+<area shape="rect" id="node30" href="$classqbpp_1_1Vector.html#a5e8bb55fb9236e098401e23a758b5927" title=" " alt="" coords="557,971,717,998"/>
+<area shape="rect" id="node33" href="$namespaceqbpp.html#a771f1a64025858d915df0123983aa772" title=" " alt="" coords="345,1022,449,1049"/>
+<area shape="rect" id="node37" href="$classqbpp_1_1Vector.html#a9cdb9d63576d4e8f28b882e22a56a815" title=" " alt="" coords="561,1073,712,1099"/>
+<area shape="rect" id="node41" href="$namespaceqbpp.html#aa7464c250db0ba827d6582d3efa9a272" title=" " alt="" coords="579,1123,694,1150"/>
+<area shape="rect" id="node44" href="$namespaceqbpp.html#a18a943c23db4a5d7b987636d75766548" title=" " alt="" coords="597,1174,676,1201"/>
+<area shape="rect" id="node45" href="$namespaceqbpp.html#a53957f0090d3aab0d81c3141c321ad2a" title=" " alt="" coords="591,1225,682,1251"/>
+<area shape="rect" id="node46" href="$namespaceqbpp.html#ae112d85a9bed2bf373934acae380c874" title=" " alt="" coords="591,1275,683,1302"/>
+<area shape="rect" id="node47" href="$namespaceqbpp.html#a01a03d608bbf2ba6be63203f0a3263b1" title=" " alt="" coords="545,1326,729,1353"/>
+<area shape="rect" id="node48" href="$namespaceqbpp.html#ad2b6fc4c0549f9535eaad97fe6c40e4e" title=" " alt="" coords="555,1377,718,1403"/>
+<area shape="rect" id="node49" href="$classqbpp_1_1Vector.html#a71fa00313228043ffcb9e09a29e4a740" title=" " alt="" coords="561,1427,713,1454"/>
+<area shape="rect" id="node50" href="$classqbpp_1_1Vector.html#ab24619468b88555146fddd5e377b9234" title=" " alt="" coords="561,1479,713,1520"/>
+<area shape="rect" id="node4" href="$factorization_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Solves the factorization problem using ABS2 QUBO Solver and Gurobi optimizer from QUBO++ library." alt="" coords="5,623,60,650"/>
+<area shape="rect" id="node7" href="$namespaceqbpp.html#a09ee3c8c0fa775643671888d2f8fba9b" title=" " alt="" coords="319,122,476,149"/>
+<area shape="rect" id="node8" href="$namespaceqbpp.html#a6aba041bba1df7d99d41703115fc4da3" title=" " alt="" coords="344,173,451,199"/>
+<area shape="rect" id="node9" href="$namespaceqbpp.html#a3bb73161c6a14db48c8c953f32824991" title=" " alt="" coords="319,223,476,250"/>
+<area shape="rect" id="node10" href="$namespaceqbpp.html#abd03cc17ab61f6ab2be95751c7b92626" title=" " alt="" coords="356,274,439,301"/>
+<area shape="rect" id="node17" href="$classqbpp_1_1tsp_1_1TSPSol.html#a850469299d3a30962180e13657e16452" title="helper function to generate a tour from the solution." alt="" coords="326,325,469,367"/>
+<area shape="rect" id="node18" href="$classqbpp_1_1tsp_1_1TSPQuadModel.html#afa2124847942c070b4cb95ab9ae59284" title="Generate a QUBO expression for the Traveling Salesman Problem (TSP)." alt="" coords="303,391,491,432"/>
+<area shape="rect" id="node19" href="$classqbpp_1_1tsp_1_1TSPSol.html#a16eb43543fe8d4af32107abc3a2c9595" title="Get the number of nodes in the tour." alt="" coords="326,456,469,497"/>
+<area shape="rect" id="node20" href="$classqbpp_1_1tsp_1_1TSPSol.html#aeaddec0d0368bef74ebcbda49fe863fe" title=" " alt="" coords="326,521,469,563"/>
+<area shape="rect" id="node23" href="$classqbpp_1_1graph__color_1_1GraphColorMap.html#ad90af91eeca9f99c1a611d144cae1934" title="Set the color histogram of the nodes." alt="" coords="302,587,493,643"/>
+<area shape="rect" id="node28" href="$namespaceqbpp.html#ac042ddd28120930edb2d42bf33787109" title=" " alt="" coords="300,667,495,694"/>
+<area shape="rect" id="node31" href="$namespaceqbpp.html#a489a4f4bbdd95a8a95e9b2952fd38980" title=" " alt="" coords="343,971,452,998"/>
+<area shape="rect" id="node32" href="$namespaceqbpp.html#acbcf2054ff2c30f4161b547fe00163b2" title=" " alt="" coords="328,769,467,795"/>
+<area shape="rect" id="node34" href="$namespaceqbpp.html#a6374dcd91f578f345c65c7bbd855d05d" title=" " alt="" coords="356,819,439,846"/>
+<area shape="rect" id="node35" href="$namespaceqbpp.html#a75237ac2fece7216a9673897c8dabdbd" title=" " alt="" coords="344,870,451,897"/>
+<area shape="rect" id="node36" href="$namespaceqbpp.html#ad239444e6826f97e56001b2bf41a6c7c" title=" " alt="" coords="330,921,465,947"/>
+<area shape="rect" id="node38" href="$namespaceqbpp.html#a9be9a5a724868c774b476067f536b899" title=" " alt="" coords="335,1073,459,1099"/>
+<area shape="rect" id="node39" href="$namespaceqbpp.html#a42c498f2f7edcdea158abc9612db95de" title=" " alt="" coords="328,1123,467,1150"/>
+<area shape="rect" id="node40" href="$classqbpp_1_1Expr.html#a73c90484dacb24529c129a00da3d8611" title=" " alt="" coords="324,1174,471,1201"/>
+<area shape="rect" id="node42" href="$namespaceqbpp.html#aa3ce65464a38ba36e0b6e99b97234245" title=" " alt="" coords="305,1225,489,1251"/>
+<area shape="rect" id="node43" href="$namespaceqbpp.html#a13c9a177636866d79431415283122768" title=" " alt="" coords="312,1275,483,1302"/>
+</map>

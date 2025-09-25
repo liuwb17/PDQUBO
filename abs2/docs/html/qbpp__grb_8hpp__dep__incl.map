@@ -1,0 +1,8 @@
+<map id="include/qbpp_grb.hpp" name="include/qbpp_grb.hpp">
+<area shape="rect" id="node1" title="QUBO++ interface to call Gurobi Optimizer." alt="" coords="344,5,505,32"/>
+<area shape="rect" id="node2" href="$graph__color__grb_8cpp.html" title="Solves randomly generated Graph Coloring Problem using QUBO++ Gurobi Optimizer." alt="" coords="5,80,156,121"/>
+<area shape="rect" id="node3" href="$ilp__grb_8cpp.html" title="Solves an Integer Linear Programming (ILP) problem using Gurobi Optimizer through QUBO++ library." alt="" coords="180,87,325,114"/>
+<area shape="rect" id="node4" href="$tsp__grb_8cpp.html" title="Solves randomly generated Traveling Salesman Problem (TSP) using the QUBO++ Easy solver." alt="" coords="350,87,499,114"/>
+<area shape="rect" id="node5" href="$simple__factorization__grb_8cpp.html" title="Simple factorization example using Gurobi Optimizer." alt="" coords="524,80,731,121"/>
+<area shape="rect" id="node6" href="$factorization_8cpp.html" title="Solves factorization and multiplication problems for two prime numbers using multiple QUBO solvers." alt="" coords="755,87,937,114"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="qbpp_grb::Callback" name="qbpp_grb::Callback">
+<area shape="rect" id="node1" title="Class to manage a callback function called by Gurobi Optimizer." alt="" coords="65,80,211,107"/>
+<area shape="rect" id="node3" href="$classGRB__Callback.html" title="Class to define Gurobi callback function for factorization." alt="" coords="5,162,119,189"/>
+<area shape="rect" id="node4" href="$classqbpp_1_1factorization_1_1GRB__Callback.html" title="Class to define Gurobi callback function for factorization." alt="" coords="143,155,287,196"/>
+<area shape="rect" id="node2" title=" " alt="" coords="85,5,191,32"/>
+</map>

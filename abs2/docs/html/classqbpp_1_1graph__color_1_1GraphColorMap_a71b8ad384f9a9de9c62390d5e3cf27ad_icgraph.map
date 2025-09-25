@@ -1,0 +1,7 @@
+<map id="qbpp::graph_color::GraphColorMap::dist" name="qbpp::graph_color::GraphColorMap::dist">
+<area shape="rect" id="node1" title="Compute the Euclidean distance between two nodes." alt="" coords="661,56,816,97"/>
+<area shape="rect" id="node2" href="$classqbpp_1_1graph__color_1_1GraphColorMap.html#a21bd722871bfdf7f2e8f93cbcf0ad639" title="Create an edges between nodes that are close to each other." alt="" coords="108,5,379,47"/>
+<area shape="rect" id="node4" href="$classqbpp_1_1graph__color_1_1GraphColorMap.html#aaac00a29df1d2986a05b246ec3f61ea9" title="Generate a random map with n nodes." alt="" coords="119,71,367,112"/>
+<area shape="rect" id="node5" href="$classqbpp_1_1graph__color_1_1GraphColorMap.html#a209786c3963fd87b7275b87c06d54cf3" title="Compute the minimum distance between a new node and all other nodes." alt="" coords="427,115,613,156"/>
+<area shape="rect" id="node3" href="$graph__color__abs2_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Main function to generate a random map and solve the Graph Coloring Problem using the ABS2 QUBO Solve..." alt="" coords="5,46,60,73"/>
+</map>

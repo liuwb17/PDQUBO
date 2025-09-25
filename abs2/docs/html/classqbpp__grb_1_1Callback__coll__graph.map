@@ -1,0 +1,7 @@
+<map id="qbpp_grb::Callback" name="qbpp_grb::Callback">
+<area shape="rect" id="node1" title="Class to manage a callback function called by Gurobi Optimizer." alt="" coords="7,247,153,273"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,157,112,184"/>
+<area shape="rect" id="node3" href="$classqbpp__grb_1_1QuadModel.html" title="Class to store a QUBO model using Gurobi Optimizer through QUBO++ library." alt="" coords="137,157,301,184"/>
+<area shape="rect" id="node4" href="$classqbpp_1_1QuadModel.html" title=" " alt="" coords="151,81,287,108"/>
+<area shape="rect" id="node5" href="$classqbpp_1_1Model.html" title=" " alt="" coords="167,5,270,32"/>
+</map>

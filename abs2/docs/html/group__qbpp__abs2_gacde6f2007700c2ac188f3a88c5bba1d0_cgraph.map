@@ -1,0 +1,5 @@
+<map id="qbpp_abs2::Callback::set_hint" name="qbpp_abs2::Callback::set_hint">
+<area shape="rect" id="node1" title="Provide a hint solution to the ABS2 solver." alt="" coords="5,35,161,76"/>
+<area shape="rect" id="node2" href="$classqbpp__abs2_1_1Sol.html#a8de3bebb198a0820db0446f9686e914d" title="Returns the reference to the ABS2 solution." alt="" coords="209,5,359,47"/>
+<area shape="rect" id="node3" href="$classabs2_1_1Callback.html#a365f96a6e4f72d37ae897841d07e55ab" title="Set the operation to the ABS2 Callback." alt="" coords="211,71,357,98"/>
+</map>

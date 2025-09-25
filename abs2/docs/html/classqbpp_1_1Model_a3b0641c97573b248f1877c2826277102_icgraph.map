@@ -1,0 +1,10 @@
+<map id="qbpp::Model::constant" name="qbpp::Model::constant">
+<area shape="rect" id="node1" title=" " alt="" coords="235,180,401,207"/>
+<area shape="rect" id="node2" href="$classqbpp_1_1Sol.html#a8acf56be292028a9601a6d7a3517ba7b" title=" " alt="" coords="35,5,157,32"/>
+<area shape="rect" id="node3" href="$classqbpp_1_1Sol.html#a776c4f721be7e67bc2c801c126989953" title=" " alt="" coords="23,56,169,83"/>
+<area shape="rect" id="node4" href="$group__qbpp__abs2.html#ga7665b9e646b22156b8680c64cd08c92c" title="Executes ABS2 for &quot;quad_model&quot; with &quot;param&quot; and returns &quot;sol&quot;." alt="" coords="21,107,171,149"/>
+<area shape="rect" id="node5" href="$group__qbpp__grb.html#ga3e5106bc14a17c6521c932753c76fe96" title="Constructor to create a model from QuadModel object." alt="" coords="14,173,178,214"/>
+<area shape="rect" id="node6" href="$group__qbpp__abs2.html#gaba8e35f84b2f822cd2633b61358370db" title="Construct a new Sol object from an ABS2 solution." alt="" coords="22,239,170,265"/>
+<area shape="rect" id="node7" href="$classqbpp_1_1exhaustive__solver_1_1SolDelta.html#a6f368c3a2224a71803d9ee2711effa9b" title=" " alt="" coords="5,290,187,331"/>
+<area shape="rect" id="node8" href="$namespaceqbpp.html#a8fa3af2cffc1996530310aac6e4b0576" title=" " alt="" coords="57,356,135,383"/>
+</map>

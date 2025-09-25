@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,35,112,61"/>
+<area shape="rect" id="node2" href="$classqbpp__grb_1_1Callback.html" title="Class to manage a callback function called by Gurobi Optimizer." alt="" coords="160,35,307,61"/>
+<area shape="rect" id="node3" href="$classGRB__Callback.html" title="Class to define Gurobi callback function for factorization." alt="" coords="370,5,483,32"/>
+<area shape="rect" id="node4" href="$classqbpp_1_1factorization_1_1GRB__Callback.html" title="Class to define Gurobi callback function for factorization." alt="" coords="355,57,499,98"/>
+</map>

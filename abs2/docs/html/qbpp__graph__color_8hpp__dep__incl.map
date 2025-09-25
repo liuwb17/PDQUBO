@@ -1,0 +1,6 @@
+<map id="sample/qbpp_graph_color.hpp" name="sample/qbpp_graph_color.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="147,5,363,32"/>
+<area shape="rect" id="node2" href="$graph__color__easy_8cpp.html" title="Solves randomly generated Graph Coloring Problem using QUBO++ Easy Solver." alt="" coords="5,80,156,121"/>
+<area shape="rect" id="node3" href="$graph__color__abs2_8cpp.html" title="Solves randomly generated Graph Coloring Problem using ABS2 QUBO Solver." alt="" coords="180,80,331,121"/>
+<area shape="rect" id="node4" href="$graph__color__grb_8cpp.html" title="Solves randomly generated Graph Coloring Problem using QUBO++ Gurobi Optimizer." alt="" coords="355,80,505,121"/>
+</map>
