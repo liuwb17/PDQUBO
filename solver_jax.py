@@ -357,8 +357,12 @@ class MAXSAT_JAX:
             # x [b, n]
             return batch_obj(x).sum()
 
+        def _g(x):
+            # return x**2-x
+            return x*jnp.log(x)+(1-x)*jnp.log(1-x)
+            
         def penalty_term(x, y):
-            return (y * (x**2-x)).sum()
+            return (y * (_g(x))).sum()
 
         grad_x_fn = jax.grad(lambda x, y: base_term(x) + penalty_term(x, y), argnums=0)
 
@@ -368,8 +372,8 @@ class MAXSAT_JAX:
             updates_x, opt_state_x = self.optimizer_primal.update(grad_x, opt_state_x, x)
             x = optax.apply_updates(x, updates_x)
 
-            x = jnp.clip(x, 0, 1)
-            y += self.dual_lr * (x **2 - x)
+            x = jnp.clip(x, 1e-4, 1-1e-4)
+            y += self.dual_lr * _g(x)
 
             ### Update incumbent
             int_x = jax.lax.stop_gradient(jnp.round(x))
