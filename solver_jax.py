@@ -29,7 +29,7 @@ class PDQUBO_JAX:
 
     ):
 
-        assert optimizer_type in {'rmsprop', 'adam'}, "Invalid optimizer type"
+        assert optimizer_type in {'gd', 'rmsprop', 'adam'}, "Invalid optimizer type"
 
 
         self.key = jax.random.PRNGKey(seed)
@@ -73,6 +73,8 @@ class PDQUBO_JAX:
         return primal, dual
 
     def _configure_optimizer(self, optimizer_type: str, lr: float) -> optax.GradientTransformation:
+        if optimizer_type == 'gd':
+            return optax.sgd(lr)
         if optimizer_type == 'rmsprop':
             return optax.rmsprop(lr, decay=0.98, eps=1e-8, momentum=0.91)
         return optax.adam(lr, b1=0.9, b2=0.999, eps=1e-8)
@@ -150,7 +152,7 @@ class MAX_K_CUT_JAX:
             verbose: bool = True
     ):
 
-        assert optimizer_type in {'rmsprop', 'adam'}, "Invalid optimizer type"
+        assert optimizer_type in {'gd', 'rmsprop', 'adam'}, "Invalid optimizer type"
 
         self.key = jax.random.PRNGKey(seed)
         self.n = n_vars
@@ -200,6 +202,8 @@ class MAX_K_CUT_JAX:
 
     def _configure_optimizer(self, optimizer_type: str, lr: float) -> optax.GradientTransformation:
 
+        if optimizer_type == 'gd':
+            return optax.sgd(lr)
         if optimizer_type == 'rmsprop':
             return optax.rmsprop(lr, decay=0.98, eps=1e-8, momentum=0.91)
         return optax.adam(lr, b1=0.9, b2=0.999, eps=1e-8)
@@ -284,7 +288,7 @@ class MAXSAT_JAX:
             verbose: bool = True,
     ):
 
-        assert optimizer_type in {'rmsprop', 'adam'}, "Invalid optimizer type"
+        assert optimizer_type in {'gd', 'rmsprop', 'adam'}, "Invalid optimizer type"
 
 
         self.key = jax.random.PRNGKey(seed)
@@ -336,6 +340,8 @@ class MAXSAT_JAX:
 
     def _configure_optimizer(self, optimizer_type: str, lr: float) -> optax.GradientTransformation:
 
+        if optimizer_type == 'gd':
+            return optax.sgd(lr)
         if optimizer_type == 'rmsprop':
             return optax.rmsprop(lr, decay=0.98, eps=1e-8, momentum=0.91)
         return optax.adam(lr, b1=0.9, b2=0.999, eps=1e-8)

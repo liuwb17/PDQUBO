@@ -32,6 +32,8 @@ if __name__ == "__main__":
     parser.add_argument('--k', type=int, default=3)
     parser.add_argument('--penalty', type=float, default=4)
     parser.add_argument('--solver', type=str, default='fem')
+    parser.add_argument('--optimizer', choices=['gd', 'rmsprop', 'adam'], default='rmsprop',
+                        help='Primal optimizer for --solver pdqubo (default: rmsprop)')
     parser.add_argument('--verbose', type=bool, default=True)
     parser.add_argument('--save', type=bool, default=False)
     parser.add_argument('--timelimit', type=int, default=300)
@@ -98,7 +100,7 @@ if __name__ == "__main__":
                 Q_indices=data['Q_indices'],
                 Q_values=data['Q_values'],
                 c=data['c'],
-                optimizer_type='rmsprop',
+                optimizer_type=args.optimizer,
                 batch_size=args.batch,
                 max_iters=args.max_iters,
                 primal_lr=args.lr_x,
@@ -112,7 +114,7 @@ if __name__ == "__main__":
             solver = MAXSAT_JAX(
                 n_vars=data['num_vars'],
                 CNF=data['CNF'],
-                optimizer_type='rmsprop',
+                optimizer_type=args.optimizer,
                 batch_size=args.batch,
                 max_iters=args.max_iters,
                 primal_lr=args.lr_x,
@@ -127,7 +129,7 @@ if __name__ == "__main__":
                 Q_indices=data['Q_indices'],
                 Q_values=data['Q_values'],
                 c=data['c'],
-                optimizer_type='rmsprop',
+                optimizer_type=args.optimizer,
                 batch_size=args.batch,
                 max_iters=args.max_iters,
                 primal_lr=args.lr_x,
